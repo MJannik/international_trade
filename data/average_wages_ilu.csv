@@ -1,0 +1,528 @@
+﻿Country,year,average_wages
+Norway,2019,5373.86
+United States,2019,4233.08
+Finland,2019,3518.51
+Singapore,2019,3344.92
+United Kingdom,2019,3168.06
+Slovakia,2019,1412.78
+Uruguay,2019,989.19
+Costa Rica,2019,929.38
+Panama,2019,895.41
+Lebanon,2019,780.07
+Russian Federation,2019,690.93
+Brazil,2019,603.46
+Mauritius,2019,578.62
+Argentina,2019,530.92
+Ecuador,2019,512.32
+Belize,2019,510
+Thailand,2019,489.57
+Albania,2019,476.83
+Botswana,2019,476.62
+Bosnia and Herzegovina,2019,474.54
+Jordan,2019,454.49
+Mongolia,2019,422.11
+Serbia,2019,394.31
+Paraguay,2019,391.37
+Azerbaijan,2019,373.41
+El Salvador,2019,347.29
+Mexico,2019,343.32
+Dominican Republic,2019,317.05
+Honduras,2019,299.43
+Viet Nam,2019,288.79
+Philippines,2019,283.67
+South Africa,2019,263
+Indonesia,2019,183.47
+Myanmar,2019,138.13
+Iceland,2018,6694.36
+Norway,2018,5608.36
+Luxembourg,2018,4247.07
+United States,2018,4088.47
+Sweden,2018,3980.43
+Finland,2018,3646.79
+Singapore,2018,3289.49
+"Korea, Republic of",2018,3264.88
+United Kingdom,2018,3216.68
+Israel,2018,2947.73
+Spain,2018,2363.09
+Slovenia,2018,2099.74
+Czechia,2018,1550.12
+Slovakia,2018,1387.95
+Lithuania,2018,1121.67
+Romania,2018,1105.38
+Portugal,2018,1048.69
+Greece,2018,1047.15
+Uruguay,2018,1044.47
+Panama,2018,870.47
+Turkey,2018,820.11
+Malaysia,2018,765.03
+Bulgaria,2018,697.63
+Tonga,2018,688.36
+Argentina,2018,656.95
+Mauritius,2018,649.32
+Brazil,2018,625.23
+Belize,2018,608.98
+Jordan,2018,473.94
+Bosnia and Herzegovina,2018,470.3
+Albania,2018,468.46
+Thailand,2018,462.51
+Guyana,2018,460.04
+Bolivia,2018,448.62
+Paraguay,2018,420.1
+Mongolia,2018,405.62
+Serbia,2018,383.74
+Guatemala,2018,346.32
+Dominican Republic,2018,338.17
+El Salvador,2018,332.11
+Mexico,2018,328.09
+Azerbaijan,2018,320.35
+Zambia,2018,302.1
+Honduras,2018,278.22
+South Africa,2018,264.47
+Philippines,2018,256.11
+Viet Nam,2018,255.55
+Armenia,2018,219.69
+Chad,2018,219.16
+"Moldova, Republic of",2018,202.18
+Sri Lanka,2018,194.22
+Burkina Faso,2018,192.68
+Pakistan,2018,158.18
+Myanmar,2018,142.04
+Mali,2018,131.83
+Egypt,2018,126.86
+Gambia,2018,82.83
+Costa Rica,2018,71.63
+Iceland,2017,6664.2
+Norway,2017,5356.84
+United States,2017,3955.18
+Sweden,2017,3942.05
+Finland,2017,3451.18
+Austria,2017,3095.33
+Singapore,2017,3064.61
+"Korea, Republic of",2017,3048.41
+United Kingdom,2017,3011.67
+Spain,2017,2226.6
+Slovenia,2017,1945.31
+Czechia,2017,1330.79
+Slovakia,2017,1244.33
+Uruguay,2017,1055.04
+Greece,2017,991.75
+Portugal,2017,967.01
+Chile,2017,918.12
+Costa Rica,2017,911.54
+Argentina,2017,874.98
+Panama,2017,854.87
+Brazil,2017,681.06
+Malaysia,2017,669.47
+Russian Federation,2017,661.76
+Mauritius,2017,615.56
+Bulgaria,2017,603.3
+Belize,2017,599.06
+Jordan,2017,511.09
+Samoa,2017,500.38
+Kazakhstan,2017,462.66
+Bolivia,2017,442.5
+Thailand,2017,435.07
+Bosnia and Herzegovina,2017,432.34
+Zambia,2017,422.01
+Albania,2017,411.14
+Paraguay,2017,387.19
+Mongolia,2017,387.14
+Guatemala,2017,354.12
+Serbia,2017,335.46
+El Salvador,2017,318.55
+Mexico,2017,317.66
+Azerbaijan,2017,307.06
+Dominican Republic,2017,295.91
+Honduras,2017,292.75
+Lao People's Democratic Republic,2017,285.56
+Philippines,2017,250.89
+Viet Nam,2017,240.13
+Cambodia,2017,236.48
+Armenia,2017,214.5
+Sri Lanka,2017,194.77
+Côte d'Ivoire,2017,190.07
+Indonesia,2017,181.88
+Pakistan,2017,178.53
+Nepal,2017,170.39
+Ghana,2017,158.29
+Togo,2017,153.76
+Bangladesh,2017,149.38
+Myanmar,2017,133.69
+Mali,2017,119.86
+Uganda,2017,106.18
+Rwanda,2017,68.15
+Australia,2016,13957.31
+Iceland,2016,5537.55
+United States,2016,3834.6
+Sweden,2016,3830.88
+Belgium,2016,3421.44
+United Kingdom,2016,3079.79
+Singapore,2016,2935.84
+"Korea, Republic of",2016,2887.71
+Israel,2016,2531.92
+Spain,2016,2078.86
+"Hong Kong, China",2016,1932.43
+Slovenia,2016,1866.24
+Barbados,2016,1340.12
+Czechia,2016,1188.87
+Slovakia,2016,1155.61
+Poland,2016,1102.46
+Hungary,2016,968.65
+Greece,2016,968.54
+Costa Rica,2016,935.95
+Portugal,2016,928.69
+Uruguay,2016,860.34
+Panama,2016,803.12
+Maldives,2016,700.47
+Jordan,2016,694.37
+Romania,2016,692.01
+Malaysia,2016,593.74
+Brazil,2016,589.6
+Belize,2016,579.2
+Mauritius,2016,568.75
+Bulgaria,2016,541.84
+Fiji,2016,533.61
+Bolivia,2016,432.8
+Bosnia and Herzegovina,2016,420.61
+Thailand,2016,419.81
+Egypt,2016,406.85
+Mongolia,2016,402.68
+Albania,2016,382.81
+Paraguay,2016,371.19
+Suriname,2016,370.87
+Guatemala,2016,340.03
+Timor-Leste,2016,321.87
+Serbia,2016,316.46
+Azerbaijan,2016,313.21
+Eswatini,2016,310.91
+Mexico,2016,310.87
+Honduras,2016,307.62
+Dominican Republic,2016,304.99
+El Salvador,2016,296.92
+Viet Nam,2016,250.42
+Armenia,2016,208.3
+Ukraine,2016,188.91
+Sri Lanka,2016,186.09
+Cambodia,2016,183.56
+Bangladesh,2016,164.59
+Pakistan,2016,142.42
+Mali,2016,118.25
+Switzerland,2015,5966.1
+Norway,2015,5580.24
+Iceland,2015,4692.28
+Sweden,2015,3793.79
+United States,2015,3728.37
+Belgium,2015,3419.52
+United Kingdom,2015,3373.33
+Finland,2015,3368.48
+Austria,2015,2931.33
+"Korea, Republic of",2015,2889.96
+Singapore,2015,2872.37
+Israel,2015,2444.92
+Spain,2015,2101.08
+Slovenia,2015,1832.92
+"Hong Kong, China",2015,1831.84
+Czechia,2015,1130.59
+Slovakia,2015,1106.18
+Costa Rica,2015,987.93
+Greece,2015,960.74
+Hungary,2015,931.57
+Uruguay,2015,925.46
+Portugal,2015,918.68
+Panama,2015,753.69
+Belize,2015,599.35
+Malaysia,2015,591.99
+Mauritius,2015,574.82
+Kazakhstan,2015,568.36
+Brazil,2015,551.74
+Russian Federation,2015,540.08
+Bulgaria,2015,503.29
+Azerbaijan,2015,455.71
+Bosnia and Herzegovina,2015,418.74
+Bolivia,2015,410.78
+Mongolia,2015,410.09
+Paraguay,2015,402.34
+Albania,2015,371.77
+Mexico,2015,349.97
+Guatemala,2015,331.32
+Thailand,2015,324.3
+Cape Verde,2015,323.92
+Serbia,2015,318.15
+El Salvador,2015,306.83
+Honduras,2015,303.5
+Dominican Republic,2015,278.81
+Togo,2015,257.91
+Ghana,2015,241.02
+Egypt,2015,237.74
+Viet Nam,2015,236.28
+Armenia,2015,209.93
+Sri Lanka,2015,177.68
+Cambodia,2015,164.23
+Pakistan,2015,151.4
+Mali,2015,109.32
+Myanmar,2015,107.74
+Madagascar,2015,71.39
+Switzerland,2014,7969.21
+Norway,2014,6950.54
+Luxembourg,2014,5587.67
+Denmark,2014,5570.46
+Ireland,2014,5019.08
+Iceland,2014,4881.5
+Sweden,2014,4745.52
+Belgium,2014,4090.45
+Finland,2014,4074.51
+Germany,2014,4045.28
+Netherlands,2014,3969.56
+Austria,2014,3727.77
+France,2014,3686.59
+United States,2014,3623.5
+Italy,2014,3265.45
+"Korea, Republic of",2014,3072.29
+Singapore,2014,2975.42
+Israel,2014,2604.02
+Spain,2014,2499.34
+Cyprus,2014,2444.44
+Malta,2014,2285.02
+Slovenia,2014,2101.69
+Greece,2014,2075.12
+"Hong Kong, China",2014,1676.54
+Portugal,2014,1659.3
+Brunei Darussalam,2014,1651.35
+Saudi Arabia,2014,1626.35
+Estonia,2014,1416.18
+Croatia,2014,1404.45
+Poland,2014,1299.71
+Czechia,2014,1291.2
+Slovakia,2014,1281.34
+Hungary,2014,1076.89
+Latvia,2014,1070.77
+Turkey,2014,1010.26
+Uruguay,2014,986.78
+Montenegro,2014,961.83
+Costa Rica,2014,904.63
+Argentina,2014,800.11
+Serbia,2014,761.36
+Belize,2014,753.03
+Brazil,2014,711.46
+Panama,2014,704.03
+Romania,2014,690.62
+Malaysia,2014,670.06
+North Macedonia,2014,654.99
+Mauritius,2014,618.3
+Azerbaijan,2014,566.71
+Bulgaria,2014,564.38
+Bosnia and Herzegovina,2014,507.31
+Paraguay,2014,458.1
+Thailand,2014,441.88
+Mongolia,2014,438.19
+Mexico,2014,402.88
+Bolivia,2014,392.45
+Togo,2014,340.42
+Guatemala,2014,333.28
+El Salvador,2014,302.86
+Cameroon,2014,276.89
+Armenia,2014,234.57
+Comoros,2014,227.85
+Viet Nam,2014,211.4
+"Tanzania, United Republic of",2014,184.08
+Sri Lanka,2014,159.11
+Afghanistan,2014,154.94
+Cambodia,2014,154.88
+Mali,2014,147.45
+Pakistan,2014,135.52
+Liberia,2014,112.46
+Rwanda,2014,97.5
+Norway,2013,7234.04
+Finland,2013,4073.34
+Belgium,2013,3952.48
+United States,2013,3578.78
+United Kingdom,2013,3411.18
+Austria,2013,3396
+Singapore,2013,2960.92
+"Korea, Republic of",2013,2846.04
+Israel,2013,2500.86
+Spain,2013,2482.4
+"Hong Kong, China",2013,1611.66
+Portugal,2013,1452.72
+Czechia,2013,1339.31
+Slovakia,2013,1211.24
+Greece,2013,1199.59
+Hungary,2013,1093.21
+Uruguay,2013,986.78
+Costa Rica,2013,948.05
+Argentina,2013,913.85
+South Africa,2013,848.67
+Timor-Leste,2013,711.13
+Brazil,2013,710.91
+Panama,2013,692.87
+Romania,2013,649.96
+Malaysia,2013,642.04
+Mauritius,2013,545.47
+Azerbaijan,2013,541.85
+Bulgaria,2013,533.4
+Bosnia and Herzegovina,2013,493
+Paraguay,2013,442.31
+Mexico,2013,420.46
+Bolivia,2013,377.84
+Ghana,2013,320.82
+Guatemala,2013,312.8
+El Salvador,2013,304.66
+Armenia,2013,227.62
+Viet Nam,2013,195.82
+Mali,2013,156.85
+Sri Lanka,2013,148.85
+Cambodia,2013,123.88
+Pakistan,2013,123.67
+Ethiopia,2013,72.44
+Malawi,2013,59.9
+Norway,2012,7047.7
+United States,2012,3512.33
+Réunion,2012,3487.24
+United Kingdom,2012,3364.68
+Austria,2012,3236.38
+Singapore,2012,2784.72
+"Korea, Republic of",2012,2660.52
+Qatar,2012,2377.47
+Spain,2012,2377.19
+Israel,2012,2372.75
+"Hong Kong, China",2012,1547.11
+Czechia,2012,1329.74
+Greece,2012,1225.87
+Slovakia,2012,1140.89
+Hungary,2012,1056.17
+Portugal,2012,1044.53
+Uruguay,2012,885.25
+Costa Rica,2012,865.63
+Argentina,2012,865.27
+South Africa,2012,821.44
+Brazil,2012,724.4
+Panama,2012,645.01
+Samoa,2012,619
+Malaysia,2012,617.07
+Romania,2012,594.83
+Mauritius,2012,519.48
+Bosnia and Herzegovina,2012,458.74
+Mongolia,2012,410.7
+Paraguay,2012,380.45
+Thailand,2012,359.81
+Bolivia,2012,335.36
+Guatemala,2012,289.09
+Viet Nam,2012,180.41
+Gambia,2012,161.94
+Cambodia,2012,120.52
+Sri Lanka,2012,113.61
+Uganda,2012,106.03
+"Congo, Democratic Republic of the",2012,98.68
+Liberia,2012,75.81
+Norway,2011,7065.62
+Finland,2011,4038.06
+Belgium,2011,4019.97
+United States,2011,3433.6
+Austria,2011,3410.29
+United Kingdom,2011,3391.86
+"Korea, Republic of",2011,2631.08
+Singapore,2011,2583.13
+Spain,2011,2563.63
+Slovenia,2011,2202.07
+Qatar,2011,2033.24
+Greece,2011,1463.01
+Czechia,2011,1448.07
+"Hong Kong, China",2011,1413.16
+Slovakia,2011,1190.12
+Hungary,2011,1150.49
+Portugal,2011,1128.88
+Uruguay,2011,840.65
+South Africa,2011,830.72
+Costa Rica,2011,774.43
+Argentina,2011,766.75
+Romania,2011,649.48
+Malaysia,2011,591.18
+Angola,2011,588.85
+Panama,2011,588.21
+Fiji,2011,514.93
+Mauritius,2011,514.64
+Bosnia and Herzegovina,2011,501.31
+Bulgaria,2011,496.99
+Paraguay,2011,389.87
+Thailand,2011,339.11
+Mongolia,2011,335.16
+Bolivia,2011,294.38
+Guatemala,2011,284.48
+Togo,2011,241.41
+Viet Nam,2011,152.33
+Cambodia,2011,100.37
+Norway,2010,6303.6
+Luxembourg,2010,4917.08
+Ireland,2010,4594.93
+Finland,2010,4036.81
+Netherlands,2010,3826.02
+Germany,2010,3820.72
+France,2010,3403.11
+United States,2010,3389.02
+Austria,2010,3379.25
+Italy,2010,3030.59
+Cyprus,2010,2655.41
+"Korea, Republic of",2010,2409.04
+Greece,2010,2384.96
+Slovenia,2010,1958.08
+Malta,2010,1956.76
+Portugal,2010,1694.27
+Aruba,2010,1683.24
+Poland,2010,1175.17
+Slovakia,2010,1106.97
+Estonia,2010,1085.76
+Hungary,2010,1078.85
+Latvia,2010,832.55
+North Macedonia,2010,657.37
+Argentina,2010,620.72
+Romania,2010,598.51
+Bosnia and Herzegovina,2010,471.49
+Bulgaria,2010,448.76
+Vanuatu,2010,447.3
+Kazakhstan,2010,415.82
+Azerbaijan,2010,413.01
+Paraguay,2010,294.34
+Guatemala,2010,268.92
+Lao People's Democratic Republic,2010,193.49
+Timor-Leste,2010,174.29
+Yemen,2010,163.44
+Egypt,2010,142.92
+Viet Nam,2010,135.31
+Cambodia,2010,90.11
+Liberia,2010,4.66
+Norway,2009,5820.3
+Finland,2009,4148.08
+Belgium,2009,3894.23
+Austria,2009,3584.59
+United States,2009,3354.7
+Qatar,2009,2140.66
+"Korea, Republic of",2009,2122.28
+Slovenia,2009,2060.09
+United Arab Emirates,2009,2028.75
+Greece,2009,1470.49
+Slovakia,2009,1118.62
+Portugal,2009,1067.01
+Romania,2009,605.05
+Russian Federation,2009,569.75
+Argentina,2009,530.53
+Bulgaria,2009,443.59
+Azerbaijan,2009,370.75
+Paraguay,2009,254.29
+Bolivia,2009,241.94
+Tajikistan,2009,89.55
+Cambodia,2009,82.62
+Egypt,2009,43.71
+Viet Nam,2009,30.87
+United States,2008,3339.89
+Greece,2008,1485.57
+Portugal,2008,1098.65
+Argentina,2008,520.7
+Paraguay,2008,278.7
+Bolivia,2008,223.18
+Cambodia,2008,84.03
+United States,2007,3223.71
+Greece,2007,1334.06
+Portugal,2007,993.6
+Paraguay,2007,211.96
+Bolivia,2007,180.74
+Cambodia,2007,76.29
